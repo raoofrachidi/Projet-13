@@ -8,7 +8,7 @@
 
    Après avoir effectué une recherche, je me suis rendu compte qu'il n'y avait pas de site de rencontre dédié aux habitants des îles, ou du moins, ceux que j'ai trouvé n'étaient pas d'une grande qualité. Mon objectif est de leur permettre d'en avoir un qui, dans la mesure du possible, sera de bonne facture. Venant de Mayotte et Madagascar, je sais que nous faisons des rencontres quasi exclusivement via Facebook, mon but est d'aider les célibataires des îles à trouver l’amour et la personne idéale avec qui ils partageraient leur vie ou flirteraient.
    
-   Les utilisateurs se verront proposer des personnes répondant à leurs critères et à la zone géographique demandée. Dans le cas où deux utilisateurs s'aiment, ils auront la possibilité de discuter pour peut-être faire évoluer leur relation.
+   Les utilisateurs se verront proposer des personnes répondant à leurs critères. Dans le cas où deux utilisateurs s'aiment, ils auront la possibilité de discuter pour peut-être faire évoluer leur relation.
 
 # Livrables 
 
